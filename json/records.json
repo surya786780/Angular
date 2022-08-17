@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 1,
+      "firstname": "surya",
+      "lastname": "kumar",
+      "loginID": "surya@123.com",
+      "password": "1234",
+      "gender": "male",
+      "dob": "24-10-1999",
+      "mobilenum": "8838946997"
+    },
+    {
+      "id": 2,
+      "firstname": "mugesh",
+      "lastname": "A",
+      "loginID": "mugeshaanoor@gmail.com",
+      "password": "4321",
+      "gender": "male",
+      "dob": "20-09-2001",
+      "mobilenum": "1234567890"
+    }
+  ],
+  "staffrecords": [
+    {
+      "id": 2,
+      "firstname": "mugesh",
+      "lastname": "A",
+      "loginID": "mugeshaanoor@gmail.com",
+      "password": "4321",
+      "gender": "male",
+      "dob": "20-9-2001",
+      "mobilenum": "1234567890"
+    }
+  ],
+  "studentrecords": [
+    {
+      "firstname": "surya",
+      "lastname": "kumar",
+      "loginID": "surya123@gmail.com",
+      "regno": "1913508",
+      "password": "surya@123",
+      "gender": "Male",
+      "dob": "1999-10-24",
+      "mobilenum": "8838946997",
+      "value": " ",
+      "id": 1
+    }
+  ]
+}
